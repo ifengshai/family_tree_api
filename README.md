@@ -25,8 +25,12 @@ settings:
 ```shell
 go build main.go
 ```
-### 第三步：启动项目(windows是exe文件)
+### 第三步：启动项目(windows是main.exe文件,main是linux文件)
 ```shell
+##
+# linux启动
+# main server -c config/settings.yml
+### windows
 main.exe server -c config/settings.yml
 ```
 启动成功后切勿关闭当前窗口，关闭窗口意味着系统关闭
