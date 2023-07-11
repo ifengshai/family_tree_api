@@ -1,0 +1,18 @@
+.idea
+.vscode
+*/.DS_Store
+static/uploadfile
+main.exe
+*.exe
+go-admin
+go-admin.exe
+temp/
+!temp
+vendor
+temp/logs
+cmd/migrate/migration/version-local/*
+!cmd/migrate/migration/version-local/doc.go
+*/.DS_Store
+
+# go sum
+go.sum
