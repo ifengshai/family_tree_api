@@ -1,5 +1,5 @@
 # 族谱系统的api
-
+需要安装golang语言环境
 基于goadmin开发：https://github.com/go-admin-team/go-admin
 使用说明：
 以下步骤都是在当前项目根目录执行
